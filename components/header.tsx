@@ -10,13 +10,13 @@ export function Header() {
         </div>
 
         <nav className="hidden md:flex items-center gap-8">
-          <a href="#highlights" className="text-slate-300 hover:text-white transition-colors text-sm">
+          <a href="#highlights" className="text-slate-700 hover:text-primary transition-colors text-sm">
             Highlights
           </a>
-          <a href="#timeline" className="text-slate-300 hover:text-white transition-colors text-sm">
+          <a href="#timeline" className="text-slate-700 hover:text-primary transition-colors text-sm">
             Timeline
           </a>
-          <a href="#terms" className="text-slate-300 hover:text-white transition-colors text-sm">
+          <a href="#terms" className="text-slate-700 hover:text-primary transition-colors text-sm">
             Details
           </a>
         </nav>

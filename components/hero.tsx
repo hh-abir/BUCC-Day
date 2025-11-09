@@ -34,7 +34,7 @@ export function Hero() {
         {/* Event Banner */}
         <div className="mb-8 inline-block">
           <div className="glass rounded-2xl px-6 py-3 mb-6">
-            <span className="text-blue-600 text-sm font-semibold">✨ Experience the Aurora Adventure ✨</span>
+            <span className="text-blue-600 text-sm font-semibold">✨ Experience the Unforgetable Adventure ✨</span>
           </div>
         </div>
 

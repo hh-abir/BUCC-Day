@@ -5,6 +5,7 @@ import { Timeline } from "@/components/timeline"
 import { RegistrationCTA } from "@/components/registration-cta"
 import { TermsConditions } from "@/components/terms-conditions"
 import { Footer } from "@/components/footer"
+import { Gallery } from "@/components/gallery"
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <Hero />
         <Highlights />
         <Timeline />
+        <Gallery/>
         <RegistrationCTA />
         <TermsConditions />
         <Footer />
